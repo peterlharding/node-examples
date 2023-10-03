@@ -1,0 +1,12 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Simple node/javascript code examples",
+  "main": "index.js",
+  "repository": "git@github.com:peterlharding/node-examples.git",
+  "author": "Peter Harding <plh@performiq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
